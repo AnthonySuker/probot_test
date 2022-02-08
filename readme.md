@@ -1,4 +1,2 @@
 hello
 ok
-yep
-ssss
